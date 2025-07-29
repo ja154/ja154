@@ -1,4 +1,4 @@
-# Hi there, I'm [Josephat] 👋
+# Hi there, I'm Josephat 👋
 
 
 I'm a Python Backend Developer and Data Enthusiast with a passion for creative problem-solving and building efficient, scalable solutions. I thrive on turning complex problems into simple, beautiful code.
