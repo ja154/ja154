@@ -8,5 +8,5 @@ Hi there 👋
 - 💬 Ask me about python/ java
 - 📫 How to reach me: email @jmwanguwe3@gmail.com
 - 😄 Pronouns: him
-- ⚡ Fun fact: problem solver
+- ⚡ Fun fact: problem solver, creative.
 -->
