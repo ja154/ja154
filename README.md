@@ -1,7 +1,7 @@
 # Hi there, I'm Josephat 👋
 
 
-I'm a Python Backend Developer and Data Enthusiast with a passion for creative problem-solving and building efficient, scalable solutions. I thrive on turning complex problems into simple, beautiful code.
+I'm a Python / Java  Backend Developer and Data Enthusiast with a passion for creative problem-solving and building efficient, scalable solutions. I thrive on turning complex problems into simple, beautiful code.
 
 ---
 
@@ -10,7 +10,7 @@ I'm a Python Backend Developer and Data Enthusiast with a passion for creative p
 * 🔭 Building robust backend systems with **Python**.
 * 📊 Analyzing and visualizing data to uncover insights using libraries like **Pandas, Matplotlib, and Seaborn**.
 * 🌱 Embarking on a new journey into **Java** to expand my programming toolkit.
-* 🤖 Exploring the creative side of tech as an **AI Content Creator**.
+* 🤖 Exploring the creative side of tech as an **AI Content Creator** and a Vibecoder and hav various vibe coded projects available here in py public repos.
 
 ---
 
@@ -31,7 +31,7 @@ Here are some of the technologies I work with:
 
 ### 🤝 Let's Connect!
 
-* 👯 I’m looking to collaborate on innovative **Python backend** or **data analysis** projects.
+* 👯 I’m looking to collaborate on innovative **Python / Java backend** or **data analysis** projects.
 * 💬 Ask me about **Python**, **Java (from a beginner's perspective!)**, or anything related to backend development.
 * 📫 You can reach me via email at **jmwanguwe3@gmail.com**.
 
