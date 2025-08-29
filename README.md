@@ -10,7 +10,7 @@ I'm a Python / Java  Backend Developer and Data Enthusiast with a passion for cr
 * 🔭 Building robust backend systems with **Python**.
 * 📊 Analyzing and visualizing data to uncover insights using libraries like **Pandas, Matplotlib, and Seaborn**.
 * 🌱 Embarking on a new journey into **Java** to expand my programming toolkit.
-* 🤖 Exploring the creative side of tech as an **AI Content Creator** and a Vibecoder and have various vibe coded projects available here in py public repos.
+* 🤖 Exploring the creative side of tech as an **AI Content Creator** and a Vibecoder and have various vibe coded projects available here in my public repos.
 
 ---
 
