@@ -20,6 +20,12 @@
 ### 💻 Programming & Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📊 Data Science
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -30,6 +36,48 @@
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🤖 Vibe Coding & AI Tools
+
+I actively use and integrate with the following platforms and tools for AI-powered, cloud-based, and vibe coding workflows:
+
+### Cloud IDEs & Coding Platforms
+- [Replit](https://replit.com/)
+- [StackBlitz Bolt.new](https://stackblitz.com/)
+- [leap.new](https://leap.new/)
+- [Encore Cloud](https://encore.dev/)
+- [Railway](https://railway.app/)
+- [Render](https://render.com/)
+- [Hostinger](https://www.hostinger.com/)
+- [Make](https://www.make.com/)
+- [Neon Console](https://neon.tech/)
+- [Netlify](https://www.netlify.com/)
+- [rocket.new](https://rocket.new/)
+- [Supabase](https://supabase.com/)
+- [Warp](https://warp.dev/)
+
+### AI & DevOps Tools
+- [Copilot Chat App (GitHub)](https://github.com/features/copilot)
+- [GitHub CLI](https://cli.github.com/)
+- [SonarQubeCloud](https://www.sonarsource.com/products/sonarqube/cloud/)
+- [GitGuardian](https://www.gitguardian.com/)
+- [Google AI Studio (Gemini)](https://ai.google.dev/)
+- [Google Labs Jules](https://labs.google/)
+- [Google Cloud Build](https://cloud.google.com/build/)
+- [Docker Inc](https://www.docker.com/)
+- [Firebase App Hosting](https://firebase.google.com/)
+- [Firebase CLI](https://firebase.google.com/docs/cli)
+- [Vercel](https://vercel.com/)
+- [Emergent.sh](https://emergent.sh/)
+- [lovable.dev (GPT Engineer)](https://lovable.dev/)
+- [Encoredev](https://encore.dev/)
+
+### Other Cloud Integrations
+- (You can add more as your stack evolves!)
+
+> *For a full list of Vibe Coding & AI coding tools I follow and use, [see my starred vibe coding repositories](https://github.com/search?q=vibe+coding+tools+OR+AI+coding+tools).* 
 
 ---
 
