@@ -74,11 +74,6 @@ I actively use and integrate with the following platforms and tools for AI-power
 - [lovable.dev (GPT Engineer)](https://lovable.dev/)
 - [Encoredev](https://encore.dev/)
 
-### Other Cloud Integrations
-- (You can add more as your stack evolves!)
-
-> *For a full list of Vibe Coding & AI coding tools I follow and use, [see my starred vibe coding repositories](https://github.com/search?q=vibe+coding+tools+OR+AI+coding+tools).* 
-
 ---
 
 ## 📊 GitHub Stats
