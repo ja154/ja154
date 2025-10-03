@@ -7,6 +7,7 @@
 ---
 
 ## 🚀 About Me
+- 💻 AI Automation Engenieer(**N8N,MAKE,SIM)
 - 💻 Backend Developer (**Python / Java**)  
 - 📊 Data Enthusiast with a love for analysis and visualization  
 - 🤖 AI Content Creator & Vibecoder (check out my vibe-coded projects in public repos)  
