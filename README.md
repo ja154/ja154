@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - 💻 Backend Developer (**Python / Java**)
-- 💻 AI Automation Engenieer(**N8N,MAKE,SIM), workflow and pipeline design and configuration,RAG AI automations.
+- 💻 Junior AI Automation Engenieer(**N8N,MAKE,SIM), workflow and pipeline design and configuration,RAG AI automations.
 - 📊 Data Enthusiast with a love for analysis and visualization  
 - 🤖 AI Content Creator & Vibecoder (check out my vibe-coded projects in public repos)  
 - 🌱 Expanding into **Java** to strengthen my programming toolkit  
